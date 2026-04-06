@@ -1,4 +1,4 @@
-<p align="left">  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Rishank+Sharma;Full+Stack+Developer;Building+scalable+systems;" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Rishank+Sharma;Full+Stack+Developer;Building+scalable+systems" />
 
 ```bash
 rishank@github --------------------------------------------

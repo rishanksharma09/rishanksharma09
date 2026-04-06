@@ -11,39 +11,41 @@
 ```bash
 rishank@github --------------------------------------------
 
-{
-  "role": "Full Stack Developer",
-  "focus": "Building scalable apps & systems that actually matter",
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 
-  "stack": {
-    "frontend": ["React", "Next.js", "Tailwind CSS"],
-    "backend": ["Node.js", "Express"],
-    "database": ["MongoDB", "Redis", "PostgreSQL"]
-  },
+- OS:        Windows 11, Linux
+- Uptime:    Grinding daily
+- Host:      Self-built systems
+- IDE:       VS Code
 
-  "languages": ["JavaScript", "TypeScript", "Java", "Python"],
+- Languages.Programming:  JavaScript, TypeScript, Java, Python
+- Languages.Web:          HTML, CSS, JSON
+- Frameworks:             React, Next.js
+- Backend:                Node.js, Express
+- Databases:              MongoDB, Redis, PostgreSQL
 
-  "tools": ["Git", "GitHub", "Postman", "VS Code", "Docker"],
+- Tools: Git, GitHub, Postman, Docker
 
-  "system": {
-    "os": "Developer Mode",
-    "editor": "VS Code",
-    "experience": "Coding since 2025"
-  },
+- Current Focus:
+  • System Design
+  • Scalable Backend Architectures
+  • Real-world Product Building
 
-  "current_focus": [
-    "System Design",
-    "Scalable Backend Architectures",
-    "Real-world Product Building"
-  ],
+- Contact --------------------------------------------------
 
-  "contact": {
-    "email": "rishanksharma04524@gmail.com",
-    "linkedin": "https://linkedin.com/in/rishanksharma09",
-    "github": "https://github.com/rishanksharma09"
-  }
-}
+- Email:     rishanksharma04524@gmail.com
+- LinkedIn:  linkedin.com/in/rishanksharma09
+- GitHub:    github.com/rishanksharma09
+
+------------------------------------------------------------
 ```
+
 
 ## Contributions
 

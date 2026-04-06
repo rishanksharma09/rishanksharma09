@@ -45,16 +45,6 @@ rishank@github --------------------------------------------
 }
 ```
 
----
-
-##  GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishanksharma09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rishanksharma09&layout=compact&theme=tokyonight)
-
----
-
 ## Contributions
 
 ![snake gif](https://github.com/rishanksharma09/rishanksharma09/blob/output/github-contribution-grid-snake.svg)

@@ -5,13 +5,13 @@
 
 <!-- 👋 Typing Animation -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Developer;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 BTech CSE @ Thapar  
+## About Me
+-  BTech CSE @ Thapar  
 - 💻 MERN Stack Developer  
 - 🚀 Building **Fest Flow** (Society Management App)  
 - 🧠 Love solving DSA & system design problems  

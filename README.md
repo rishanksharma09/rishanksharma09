@@ -47,7 +47,7 @@ rishank@github --------------------------------------------
 
 ---
 
-## ⚡ GitHub Stats
+##  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishanksharma09\&show_icons=true\&theme=tokyonight)
 
@@ -55,7 +55,7 @@ rishank@github --------------------------------------------
 
 ---
 
-## 🐍 Contribution Snake
+## Contributions
 
 ![snake gif](https://github.com/rishanksharma09/rishanksharma09/blob/output/github-contribution-grid-snake.svg)
 

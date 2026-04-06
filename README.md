@@ -20,7 +20,7 @@ rishank@github --------------------------------------------
   "stack": {
     "frontend": ["react", "nextjs", "tailwind"],
     "backend": ["nodejs", "express"],
-    "database": ["mongodb", "redis"."postgresql"]
+    "database": ["mongodb", "redis", "postgresql"]
   },
 
   "languages": ["javascript", "typescript", "java", "python"],
@@ -46,7 +46,7 @@ rishank@github --------------------------------------------
 ## 🐍 contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rishanksharma09/rishanksharma09/output/github-contribution-grid-snake.svg" />
 </p>
 
 

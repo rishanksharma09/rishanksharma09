@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=rishank%40github;Full+Stack+Developer;Building+scalable+systems;Always+shipping+🚀" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Rishank+Sharma;Full+Stack+Developer;Building+scalable+systems;" /> </p>
+
 ```bash
 rishank@github --------------------------------------------
 

@@ -1,10 +1,13 @@
+<pre>
+  
+██████╗ ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗     ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗ 
+██╔══██╗██║██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝     ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+██████╔╝██║███████╗███████║███████║██╔██╗ ██║█████╔╝      ███████╗███████║███████║██████╔╝██╔████╔██║███████║
+██╔══██╗██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗      ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
+██║  ██║██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗     ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 
-██████╗ ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
-██╔══██╗██║██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
-██████╔╝██║███████╗███████║███████║██╔██╗ ██║█████╔╝ 
-██╔══██╗██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗   
-██║  ██║██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+</pre>
 
 ```bash
 
@@ -12,18 +15,17 @@ rishank@github --------------------------------------------
 
 {
   "role": "Full Stack Developer",
-  "focus": "Building scalable apps & cool products",
-  "current": "Fest Flow 🚀",
+  "focus": "Building scalable apps & unexisting systems that matter",
 
   "stack": {
     "frontend": ["react", "nextjs", "tailwind"],
     "backend": ["nodejs", "express"],
-    "database": ["mongodb", "redis"]
+    "database": ["mongodb", "redis"."postgresql"]
   },
 
-  "languages": ["javascript", "typescript", "cpp"],
+  "languages": ["javascript", "typescript", "java", "python"],
 
-  "tools": ["git", "github", "postman", "vscode"],
+  "tools": ["git", "github", "postman", "vscode", "docker" ],
 
   "system": {
     "os": "developer mode",
@@ -32,17 +34,10 @@ rishank@github --------------------------------------------
   },
 
   "contact": {
-    "email": "your@email.com",
-    "linkedin": "linkedin.com/in/YOUR_LINK",
-    "github": "github.com/YOUR_USERNAME"
+    "email": "rishanksharma04524@gmail.com",
+    "linkedin": "linkedin.com/in/rishanksharma09",
+    "github": "github.com/rishanksharma09"
   },
-
-  "stats": {
-    "repos": "XX",
-    "commits": "XXXX",
-    "followers": "XX",
-    "focus": "building things that matter"
-  }
 }
 ```
 
@@ -56,10 +51,3 @@ rishank@github --------------------------------------------
 
 
 ---
-
-## 🐍 contribution snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-

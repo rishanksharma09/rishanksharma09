@@ -1,11 +1,11 @@
 <!-- 🌈 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rishank%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rishank%20Sharma&reversal=true&textBg=false&fontSize=0&fontAlign=50&animation=fadeIn&fontAlignY=44"/>
 </p>
 
 <!-- 👋 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Cool+Things+🚀;Always+Learning+💡"/>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Developer;Building+Scalable+Systems)](https://git.io/typing-svg)
 </p>
 
 ---

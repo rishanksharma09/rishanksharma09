@@ -6,50 +6,35 @@
 ██║  ██║██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
 ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 </pre>
+```ansi
+[1;34m              .-""""-.[0m        [1;36mrishank@github[0m ---------------------------------
+[1;34m           .'        '.[0m       [1;33mOS[0m:            MERN Developer
+[1;34m          /   _  _     \[0m      [1;33mUptime[0m:        Coding since 2025
+[1;34m         |   (o)(o)     |[0m     [1;33mHost[0m:          Thapar Institute
+[1;34m         |    __        |[0m     [1;33mKernel[0m:        Problem Solver v1.0
+[1;34m         |   (__)       |[0m     [1;33mIDE[0m:           VS Code / IntelliJ
+[1;34m          \            /[0m      
+[1;34m       ___/ '._  _.' \___[0m     [1;35mLanguages.Programming[0m:  JavaScript, TypeScript, C++
+[1;34m     /`   \         /   `\[0m    [1;35mLanguages.Web[0m:          React, Next.js, Node.js
+[1;34m    /      '-------'      \[0m   [1;35mLanguages.Database[0m:     MongoDB, Redis
+                              
+                              [1;32mHobbies.Software[0m:       Building Projects
+                              [1;32mHobbies.Hardware[0m:       Late Night Coding
 
-```bash
-> whoami
-Rishank Sharma
+                              ------------------------------------------
 
-> status
-"building things that shouldn't exist yet"
+                              [1;36mContact[0m
+                              Email:      your@email.com
+                              LinkedIn:   linkedin.com/in/YOUR_LINK
+                              GitHub:     github.com/YOUR_USERNAME
 
-> about
-CSE @ Thapar Institute of Engineering & Technology
-Full Stack Developer (MERN)
-Problem Solver | System Design Learner
+                              ------------------------------------------
 
-> tech_stack
-frontend   : react, nextjs, tailwind
-backend    : nodejs, express
-database   : mongodb, redis
-languages  : javascript, typescript, cpp
-
-> tools
-git, github, postman, vscode
-
-> current_focus
-exploring scalable backend systems
-
-> system
-OS        : Windows / Linux
-Uptime    : coding since 2025
-Editor    : VS Code
-
-> contact
-email     : rishanksharma04524@gmail.com
-linkedin  : linkedin.com/in/rishanksharma09
-
-> github
-repos     : XX
-commits   : XXXX
-followers : XX
-stars     : XX
+                              [1;33mGitHub Stats[0m
+                              Repos:      XX      | Stars: XX
+                              Commits:    XXXX    | Followers: XX
+                              Focus:      Building Fest Flow 🚀
 ```
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=999999&color=00FF00&lines=%3E+_" />
-</p>
 
 ---
 
@@ -59,4 +44,3 @@ stars     : XX
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
----

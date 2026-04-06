@@ -1,24 +1,98 @@
-# 💫 About Me:
-🧠 I’m currently working on:<br>A modern full-stack eCommerce web app using Next.js 15, TypeScript, Drizzle ORM, and Tailwind CSS.<br>🤝 I’m looking to collaborate on:<br>Open-source Next.js or TypeScript projects, and innovative ideas in modern UI/UX web development.<br>🆘 I’m looking for help with:<br>Optimizing database performance and improving backend scalability.<br>🌱 I’m currently learning:<br>Authentication systems, and clean database architecture in full-stack web apps.<br>💬 Ask me about:<br> How to build modern full-stack web apps from scratch.<br>⚡ Fun fact:<br>I binge bugs and Netflix<br>
+<!-- 🌈 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rishank%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishanksharma_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishanksharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rishanksharma_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishanksharma04524@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishanksharma09&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishanksharma09&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishanksharma09&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rishanksharma09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- 👋 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Cool+Things+🚀;Always+Learning+💡"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rishanksharma09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+- 🎓 BTech CSE @ Thapar  
+- 💻 MERN Stack Developer  
+- 🚀 Building **Fest Flow** (Society Management App)  
+- 🧠 Love solving DSA & system design problems  
+
+---
+
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,tailwind,git,github,cpp" />
+</p>
+
+---
+
+## 🎥 Project Demo
+
+<p align="center">
+  <img src="./assets/demo.gif" width="700"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Fest Flow
+> Society Management Platform (CRUD + Role-based access)
+
+- ⚙️ MERN + Redis  
+- 🔐 Firebase Auth  
+- 📊 Dashboard + Event Management  
+
+---
+
+### 🎵 Spotify Clone
+> Dynamic playlist detection & music UI
+
+---
+
+### 🔐 Password Manager
+> Secure password storage system
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Snake Eating Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<!-- 🌊 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>

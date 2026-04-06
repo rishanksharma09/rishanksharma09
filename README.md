@@ -45,9 +45,7 @@ rishank@github --------------------------------------------
 
 ## 🐍 contribution snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishanksharma09/rishanksharma09/output/github-contribution-grid-snake.svg" />
-</p>
+![snake gif](https://github.com/rishanksharma09/rishanksharma09/blob/output/github-contribution-grid-snake.svg)
 
 
 ---

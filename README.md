@@ -32,7 +32,7 @@ rishank@github --------------------------------------------
 - Contact --------------------------------------------------
 
 - Email:     rishanksharma04524@gmail.com
-- LinkedIn:  linkedin.com/in/rishanksharma09
+- LinkedIn:  linkedin.com/in/rishanksharma
 - GitHub:    github.com/rishanksharma09
 
 ------------------------------------------------------------

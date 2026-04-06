@@ -49,10 +49,9 @@ rishank@github --------------------------------------------
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishanksharma09&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanksharma09&layout=compact&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rishanksharma09&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rishanksharma09&layout=compact&theme=tokyonight)
 
 ---
 
